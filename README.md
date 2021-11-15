@@ -1,2 +1,2 @@
 # Ethical-Hacking
-Ethnical Hacking Projects
+  My ethical hacking projects as a beginner
